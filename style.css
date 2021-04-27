@@ -136,3 +136,11 @@ button:focus{
 #control h1{
     background-color: #4caf50;
 }
+/* signal and system */
+#signal{
+    text-align: center;
+    background-color: #e6e6e6;
+}
+#signal h1{
+    background-color: #4caf50;
+}
