@@ -29,7 +29,7 @@ body{
 }
 
 .active{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 
 h1{
@@ -75,7 +75,7 @@ button:focus{
 }
 
 #communication h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* analog circuit */
 #analog{
@@ -86,7 +86,7 @@ button:focus{
 }
 
 #analog h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* network theory */
 #network{
@@ -97,7 +97,7 @@ button:focus{
 }
 
 #network h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* digital electronics */
 #digital{
@@ -107,7 +107,7 @@ button:focus{
     /* display: none; */
 }
 #digital h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 
 /* electronics device */
@@ -118,7 +118,7 @@ button:focus{
     /* display: none; */
 }
 #electronics h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* mathematics */
 #math{
@@ -126,7 +126,7 @@ button:focus{
     background-color: #e6e6e6;
 }
 #math h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* control system */
 #control{
@@ -134,7 +134,7 @@ button:focus{
     background-color: #e6e6e6;
 }
 #control h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* signal and system */
 #signal{
@@ -142,7 +142,7 @@ button:focus{
     background-color: #e6e6e6;
 }
 #signal h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
 /* electromagnetic field theory */
 #emft{
@@ -150,5 +150,5 @@ button:focus{
     background-color: #e6e6e6;
 }
 #emft h1{
-    background-color: #4caf50;
+    background-color: #ff8474;
 }
