@@ -1,4 +1,4 @@
-body{
+/* body{
     margin: 0;
 }
 .nav-bar{
@@ -26,12 +26,12 @@ body{
 }
 .nav-con a:hover{
     background-color: #111;
-}
+}*/
 
 .active{
-    background-color: #ff8474;
-}
-
+    background-color: #ffffff;
+    color: black;
+} 
 h1{
     text-align: center;
     background-repeat: no-repeat;
@@ -54,11 +54,11 @@ button{
 
 a{
     color:white;
-    font-weight: bold;
+    font-weight: normal;
     text-decoration: none;
 }
 a:hover{
-    color: white;
+    color:white;
 }
 button:hover{
     background-color: #111 ;
@@ -66,6 +66,7 @@ button:hover{
 button:focus{
     outline: none;
 }
+
 /* communication lecture */
 #communication{
     /* margin-top: 92px; */
